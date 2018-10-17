@@ -1,0 +1,170 @@
+.search-header {
+  text-align: center;
+  background: white;
+  margin:  0px 30px 0px 30px;
+  padding: 15px 50px 0px 50px;
+  opacity: .7;
+}
+.backgroundimage {
+  background-image: url("https://cdn.pixabay.com/photo/2015/08/14/20/59/white-painted-concrete-wall-888895_960_720.jpg");
+  padding: 20px 20px 25% 20px;
+  background-repeat: repeat;
+
+}
+
+nav{
+  margin-bottom: 10px;
+}
+
+body{
+  font-family: 'Cinzel Decorative', cursive;
+}
+/* parralax */
+.header-image{ 
+  background-image: url("images/dinner.jpg");
+  height: 800px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 8%;
+}
+
+ul{
+text-align: left;
+
+}
+
+.second-image{ 
+  background-image: url("images/stars.jpg");
+  height: 1000px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: aliceblue;
+}
+
+#si-pictures{
+text-align: center;
+}
+
+h1 {
+  font-family: 'Cinzel Decorative', cursive;
+  font-size: 100px;
+  color: black;
+  font-size: 75px;
+}
+
+h3{
+  font-family: 'Cinzel Decorative', cursive;
+  text-align: center;
+  font-size: 70px;
+  color: aliceblue
+}
+
+input[type=text] {
+  background-color: white;
+  color: black;
+}
+
+.recipe-img {
+  height: 150px;
+  width: 150px;
+  padding: 5px;
+  margin: 10px;
+}
+/* .food-view{
+  height: 400px;
+  width: 400px;
+  margin:20px;
+  float: left;
+} */
+
+.food-display {
+  text-align: center;
+}
+
+.food-view-holder {
+  
+}
+.recipe-display {
+  height: 300px;
+  width: 250px;
+  padding: 5px;
+  margin: 50px 50px 20px 95px;
+  float: left;
+  text-align: center;
+  background: white;
+}
+
+.form-holder{
+  text-align: center;
+}
+.recipe-header{
+  text-align: center;
+  font-size: 50px;
+}
+
+h2{
+  font-family: 'Cinzel Decorative', cursive;
+    font-size: 60px;
+    text-align: center;
+    color: red;
+}
+
+.header-four{
+  font-size: 30px;
+}
+
+#circleimg {
+  border-radius: 50%;
+  height: 170px;
+  width: 200px; 
+}  
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+}
+
+.column {
+  width: 100%;
+  display: block;
+  margin-bottom: 20px;
+}
+ h4{
+   font-family: 'Cinzel Decorative', cursive;
+   font-size: 70px;
+   text-align: center;
+   color: black
+ }
+
+h6{
+ font-family: 'Cinzel Decorative', cursive;
+   font-size: 70px;
+   text-align: center;
+   color: black
+}
+h7{
+  font-family: 'Cinzel Decorative', cursive;
+    font-size: 25px;
+    text-align: center;
+    color: black
+ }
+.video{
+  text-align: center;
+  margin: 25px;
+}
+
+.last-image{ 
+  background-image: url();
+  height: 800px; 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 8%;
+}
